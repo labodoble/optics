@@ -1,0 +1,21 @@
+#Two lense system: 
+
+1/f=1/f1+1/f2-d/f1*f2
+f- focus length of two lenses system
+f1 - focus of 1. lense
+f2 - focus of 2. lense
+d - distance between two lenses
+
+when f1=f2
+f=f1^2/(2*f1-d)
+
+
+#Macro lense system for optical printer:
+
+a = f(1+1/m)
+b = f(1+m)
+
+a - distance between lense and level of reproduced film
+b - distance between lense and level of the film which will be exposed
+f - focus length of lense
+m - ratio of magnitud between original image and the exposed one
